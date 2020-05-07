@@ -1,0 +1,4 @@
+flask
+dataset
+flask-cors
+gunicorn
