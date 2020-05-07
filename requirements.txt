@@ -2,3 +2,4 @@ flask
 dataset
 flask-cors
 gunicorn
+psycopg2
