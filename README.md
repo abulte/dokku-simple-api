@@ -18,3 +18,5 @@ On local copy:
 git remote add dokku dokku@{host}:simple-api
 git push dokku master
 ```
+
+:rocket: http://simple-api.{host}/api
